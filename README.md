@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @camdencarlson
-- 👀 I’m interested in too many things... but mostly aerospace, mechanical engineering, rockets, software, guidance control & navigation of aerspace vehicles.
-- 🌱 I’m currently learning kalman filtering, spacecraft dynamics, and a lot of software and programming skills I should have learned a long time ago... (I'm sure this is how every engineer feels, though)
-- 📫 How to reach me ... @cmdcrl - twiiter handle
+- 👀 I’m interested in too many things... aerospace, mechanical engineering, rockets, software, fluid dynamics, cnc machining.
+- 🌱 I’m currently learning kalman filtering, spacecraft dynamics, computational fluid dynamics and heat transfer
+- 📫 How to reach me ... @cmdcrl - twitter handle
 
 <!---
 camdencarlson/camdencarlson is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
